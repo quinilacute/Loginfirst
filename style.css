@@ -1,0 +1,152 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: green;
+}
+
+.container {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-sizing: border-box; /* Added this line */
+}
+
+.wel {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.wel img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.wel h1 {
+  font-size: 24px;
+  color: #333;
+}
+
+.form, .sub {
+  margin-bottom: 20px;
+  justify-content: center;
+  margin-left: 23%;
+  width: 50%;
+  border-radius: 5px;
+  background-color: pink;
+}
+
+.form input {
+  border: none;
+  background: none;
+  padding: 10px 0 0;
+  text-align: center;
+}
+
+.form input::placeholder {
+  font-size: 20px;
+  color: white;
+}
+
+.form hr {
+  margin-bottom: 20px;
+}
+
+.sub {
+  background: none;
+}
+
+button[type="submit"] {
+  width: 100%;
+  padding: 10px;
+  background-color: red;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button[type="submit"]:hover {
+  background-color: #444;
+}
+
+a {
+  text-decoration: none;
+  color: bluish-orange;
+}​body {
+  font-family: Arial, sans-serif;
+  background-color: green ;
+}
+
+.container {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.wel {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.wel img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.wel h1 {
+  font-size: 24px;
+  color: #333;
+}
+
+.form, .sub {
+  margin-bottom: 20px;
+  justify-content: center;
+  margin-left: 23%;
+  width: 50%;
+  border-radius: 5px;
+  background-color: pink;
+}
+
+.form input {
+  border: none;
+  background: none;
+  padding: 10px 0 0;
+  text-align: center;
+}
+
+.form input::placeholder {
+  font-size: 20px;
+  color: white;
+}
+
+.form hr {
+  margin-bottom: 20px;
+}
+
+.sub {
+  background: none;
+}
+
+button[type="submit"] {
+  width: 100%;
+  padding: 10px;
+  background-color: red;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button[type="submit"]:hover {
+  background-color: #444;
+}
+
+a {
+  text-decoration: none;
+  color: bluish-orange;
+}
